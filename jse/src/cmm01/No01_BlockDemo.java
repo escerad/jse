@@ -7,11 +7,11 @@ public class No01_BlockDemo {
 		
 		if(condition)
 		{
-			System.out.println("condition Àº ÂüÀÌ¸é µË´Ï´ç ");
+			System.out.println("condition ì€ ì°¸ì´ë©´ ë©ë‹ˆë‹¹ ");
 		}
 		else
 		{
-		System.out.println("°ÅÁş");			
+		System.out.println("ê±°ì§“");			
 		}
 	}
 }

@@ -23,7 +23,7 @@ public class No04_ComparisionDemo {
 		System.out.println("val01  < val02");
 		
 	}
-	//Á¶°Ç¹®ÀÌ¶ó°í ÇÑ´Ù.
+	//ì¡°ê±´ë¬¸ì´ë¼ê³  í•œë‹¤.
 	}
 	
 	

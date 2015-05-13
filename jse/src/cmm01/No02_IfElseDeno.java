@@ -1,18 +1,18 @@
 package cmm01;
 
-import java.util.Scanner; //´ë¹®ÀÚ·Î ¹Ù²î¸é¼­ °´Ã¼°¡ µË´Ï´ç.
+import java.util.Scanner; //ëŒ€ë¬¸ìë¡œ ë°”ë€Œë©´ì„œ ê°ì²´ê°€ ë©ë‹ˆë‹¹.
 
 public class No02_IfElseDeno {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		//scanfÀÌ°Å¶û °°Àº°Å ¾ËÁö. À§ÀÇ scannerÀº ±×·± °³³äÀÌ¾ß.
-		System.out.print("°ªÀ» ÀÔ·ÂÇÏ¼¼¿ä :");
+		//scanfì´ê±°ë‘ ê°™ì€ê±° ì•Œì§€. ìœ„ì˜ scannerì€ ê·¸ëŸ° ê°œë…ì´ì•¼.
+		System.out.print("ê°’ì„ ì…ë ¥í•˜ì„¸ìš” :");
 		int i = 0;
 		
 		i=scanner.nextInt();
 		
-		System.out.println("iÀÇ °ªÀº "+ i +"ÀÔ´Ï´Ù.");
+		System.out.println("iì˜ ê°’ì€ "+ i +"ì…ë‹ˆë‹¤.");
 	}
 }
